@@ -13,7 +13,7 @@ Red: Shows the predicted future trajectory based on the model<br>
 ## Overview
 This project focuses on trajectory prediction using various models. It leverages the KITTI dataset for training and evaluation and provides tools for visualizing the predicted trajectories.
 
-The codes are based on codes of the trajectory prediction shared by https://github.com/fedebecat and is modified to address our desired goals.
+The codes are based on codes of the trajectory prediction shared by https://github.com/fedebecat and are modified to address our desired goals.
 
 # Setup
 ## Create a Virtual Environment
@@ -26,7 +26,7 @@ Install the necessary Python packages using pip:<br>
 ## Dataset 
 ### Download KITTI Dataset
 First, download the KITTI Raw dataset and split it into the appropriate format. Place the dataset in the kitti_raw_data folder.
-## Training and Evaluation
+## Run and Evaluation
 To run and evaluate your model, run the main.py script. 
 
 ### Run the script using:
